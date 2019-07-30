@@ -4,8 +4,8 @@ AWS Lambda :: Instantor Callback Function
 ```xml
 <dependency>
     <groupId>br.com.ggdio</groupId>
-	<artifactId>aws-lambda-instantor</artifactId>
-	<version>1.0.0-RELEASE</version>
+    <artifactId>aws-lambda-instantor</artifactId>
+    <version>1.0.0-RELEASE</version>
 </dependency>
 ```
 
@@ -30,8 +30,8 @@ Dependency:
 ```xml
 <dependency>
     <groupId>br.com.ggdio</groupId>
-	<artifactId>aws-lambda-instantor</artifactId>
-	<version>1.0.0-RELEASE</version>
+    <artifactId>aws-lambda-instantor</artifactId>
+    <version>1.0.0-RELEASE</version>
 </dependency>
 ```
 
