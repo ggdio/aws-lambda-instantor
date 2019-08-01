@@ -78,7 +78,7 @@ public class InstantorLambda implements RequestHandler<APIGatewayProxyRequestEve
 			
 			String[] params = body.split("&");
 			for (String paramLine : params) {
-				String[] kv = paramLine.split("=");
+				String[] kv = paramLine.split("=", 2);
 				parameters.put(kv[0], kv[1]);
 				
 			}
